@@ -13,8 +13,8 @@ Systems programmer focused on **C++ and Go** — performance engineering, scalab
 ## Projects
 
 - **[KafkaDesktopClient](https://github.com/gfeyer/KafkaDesktopClient)** (C++) — Desktop client for consuming and filtering JSON data streams from Kafka.
-- **[fleet_commander](https://github.com/gfeyer/fleet_commander)** (C++) — 2D colonization simulator built on an Entity Component System architecture, optimized to handle large numbers of entities. [Playable on itch.io](https://gfeyer.itch.io/fleet-commander).
-- **[DocumentSearcher](https://github.com/gfeyer/DocumentSearcher)** (C++) — Fast indexing and full-text search over large archives (.doc/.docx/.pdf), built on Lucene++. Tested on 20GB+/20,000-document archives with sub-second queries. Also shipped a separate Java/Scala implementation as a [commercial desktop product](https://documentsearcher.weebly.com/).
+- **[fleet_commander](https://gfeyer.itch.io/fleet-commander)** (C++) — 2D colonization simulator built on an Entity Component System architecture, optimized to handle large numbers of entities. Playable on itch.io. [Repo link](https://github.com/gfeyer/fleet_commander)
+- **[DocumentSearcher](https://documentsearcher.weebly.com/)** (C++) — Fast indexing and full-text search over large archives (.doc/.docx/.pdf), built on Lucene++. Tested on 20GB+/20,000-document archives with sub-second queries. Also shipped a separate Java/Scala implementation as a [commercial desktop product](https://documentsearcher.weebly.com/).
 - **[ecs_sim](https://github.com/gfeyer/ecs_sim)** (Go) — Entity Component System simulation built from scratch.
 
 ## Interests
