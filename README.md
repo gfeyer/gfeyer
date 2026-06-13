@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-Systems programmer focused on **C++ and Go** — performance engineering, scalable systems, data serialization, and high-throughput services. I like finding the bug nobody else can reproduce and the allocation nobody knew was there.
+Systems programmer focused on **C++ and Go** — performance engineering, scalable systems, data serialization, and high-throughput services.
 
 📍 Montreal
 
